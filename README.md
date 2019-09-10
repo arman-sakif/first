@@ -1,8 +1,6 @@
 # first
 first project to test git
 
-
-chutmarani chudir vai 
-chuida bole ami toh chudi nai
+Chuda chudi Kori na,, chudar fal pari na
 
 return 0
